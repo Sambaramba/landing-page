@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.top {
+    display: flex;
+    background-color: #1F2937; /*add to .footer*/
+    color: white;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.hero {
+    display: flex;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+}
+
+.links {
+
+}
