@@ -1,6 +1,7 @@
 body {
   display: flex;
   flex-direction: column;
+  /* padding: 5px 50px; */
 }
 
 .top {
@@ -14,11 +15,12 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-wrap: nowrap;
+    /* flex-wrap: nowrap; */
 }
 
 .hero {
     display: flex;
+    justify-content: center;
 }
 
 ul {
@@ -27,6 +29,6 @@ ul {
     gap: 10px;
 }
 
-.links {
-
+.top-left {
+    padding-right: 20px;
 }
