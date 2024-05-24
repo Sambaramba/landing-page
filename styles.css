@@ -2,6 +2,7 @@ body {
   display: flex;
   flex-direction: column;
   /* padding: 5px 50px; */
+  margin: 0;
 }
 
 .top {
@@ -9,6 +10,7 @@ body {
     background-color: #1F2937; /*add to .footer*/
     color: white;
     flex-direction: column;
+    padding: 0 30px;
 }
 
 .header {
