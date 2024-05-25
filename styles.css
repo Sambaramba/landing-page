@@ -24,6 +24,7 @@ body {
     display: flex;
     /* justify-content: center; */
     width: 1150px;
+    /* margin: 60px auto; */
 }
 
 ul {
@@ -34,9 +35,14 @@ ul {
 
 .top-left {
     padding-right: 20px;
-    width: 35%;
+    width: 30%;
 }
 
 .top-right {
 
+}
+
+.header,
+.hero {
+    padding-bottom: 60px;
 }
