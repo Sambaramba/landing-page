@@ -10,7 +10,7 @@ body {
     background-color: #1F2937; /*add to .footer*/
     color: white;
     flex-direction: column;
-    padding: 0 30px;
+    padding: 0 100px;
 }
 
 .header {
@@ -22,7 +22,8 @@ body {
 
 .hero {
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
+    width: 1150px;
 }
 
 ul {
@@ -33,4 +34,9 @@ ul {
 
 .top-left {
     padding-right: 20px;
+    width: 35%;
+}
+
+.top-right {
+
 }
