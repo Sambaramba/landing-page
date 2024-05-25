@@ -23,7 +23,7 @@ body {
 .hero {
     display: flex;
     /* justify-content: center; */
-    width: 1150px;
+    /* width: 1150px; */
     /* margin: 60px auto; */
 }
 
@@ -34,8 +34,8 @@ ul {
 }
 
 .top-left {
-    padding-right: 20px;
-    width: 30%;
+    padding-right: 35px;
+    /* width: 30%; */
 }
 
 .top-right {
