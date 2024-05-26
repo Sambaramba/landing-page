@@ -36,12 +36,8 @@ ul {
 .top-left {
     padding-right: 35px;
     /* width: 30%; */
-    flex: 1;
 }
 
-.top-right {
-
-}
 
 .top-left,
 .top-right {
@@ -66,4 +62,9 @@ p,
 button {
     padding: 0;
     margin: 0 0 5px 0;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
 }
