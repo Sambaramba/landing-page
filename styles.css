@@ -102,3 +102,8 @@ button {
     /* margin: 10px; */
     max-width: 200px;
 }
+
+.h2,
+.image-text {
+    margin-bottom: 30px;
+}
