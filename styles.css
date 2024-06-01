@@ -107,3 +107,7 @@ button {
 .image-text {
     margin-bottom: 30px;
 }
+
+img {
+    object-fit: contain;
+}
