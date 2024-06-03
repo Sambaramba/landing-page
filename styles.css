@@ -111,3 +111,14 @@ button {
 img {
     object-fit: contain;
 }
+
+/*section 3*/
+.container-two {
+    background-color: #E5E7EB;
+
+}
+
+.quote {
+    display: flex;
+    justify-content: center;
+}
