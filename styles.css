@@ -34,6 +34,10 @@ ul {
     gap: 10px;
 }
 
+.light-grey {
+    color: #E5E7EB;
+}
+
 .top-left {
     padding-right: 35px;
     /* width: 50%; */
@@ -106,6 +110,15 @@ button {
 .h2,
 .image-text {
     margin-bottom: 30px;
+}
+
+.info-image {
+    border: 3px solid #3882F6;
+    width: 200px;
+    border-radius: 8px;
+    min-width: 150px;
+    min-height: 150px;
+
 }
 
 img {
