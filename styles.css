@@ -6,6 +6,12 @@ body {
   /* text-align: center; */
 }
 
+.top,
+.container-one,
+.container-two {
+    padding: 0 100px;
+}
+
 .top {
     display: flex;
     background-color: #1F2937; /*add to .footer*/
@@ -128,16 +134,13 @@ img {
 /*section 3*/
 .container-two {
     background-color: #E5E7EB;
+    padding: 60px 300px;
 
 }
 
 .quote {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
-.top,
-.container-one,
-.container-two {
-    padding: 0 100px;
-}
