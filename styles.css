@@ -11,7 +11,7 @@ body {
     background-color: #1F2937; /*add to .footer*/
     color: white;
     flex-direction: column;
-    padding: 0 100px;
+    /* padding: 0 100px; */
 }
 
 .header {
@@ -134,4 +134,10 @@ img {
 .quote {
     display: flex;
     justify-content: center;
+}
+
+.top,
+.container-one,
+.container-two {
+    padding: 0 100px;
 }
