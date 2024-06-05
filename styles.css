@@ -12,6 +12,10 @@ body {
     padding: 0 10%;
 }
 
+img {
+    object-fit: contain;
+}
+
 .top {
     display: flex;
     background-color: #1F2937; /*add to .footer*/
@@ -27,6 +31,12 @@ body {
     /* flex-wrap: nowrap; */
 }
 
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+}
+
 .hero {
     display: flex;
     /* justify-content: center; */
@@ -34,11 +44,6 @@ body {
     /* margin: 60px auto; */
 }
 
-ul {
-    list-style-type: none;
-    display: flex;
-    gap: 10px;
-}
 
 .light-grey {
     color: #E5E7EB;
@@ -74,6 +79,11 @@ ul {
     border: 0;
     padding: 5px 25px;
     width: 100px;
+}
+
+.image-top {
+    width: 500px;
+    height: 350px;
 }
 
 h1, 
@@ -127,9 +137,7 @@ button {
 
 }
 
-img {
-    object-fit: contain;
-}
+
 
 /*section 3*/
 .container-two {
