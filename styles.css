@@ -40,8 +40,9 @@ ul {
 .hero {
     display: flex;
     /* justify-content: center; */
-    /* width: 1150px; */
+    /* width: 1630px; */
     /* margin: 60px auto; */
+    /*height: 300px*/
 }
 
 
@@ -51,7 +52,11 @@ ul {
 
 .top-left {
     padding-right: 35px;
-    /* width: 50%; */
+    /* width: 800px; */
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*flex-wrap: wrap;*/
+
 }
 
 .top-right {
@@ -63,7 +68,7 @@ ul {
 
 .top-left,
 .top-right {
-    flex: auto;
+    /* flex: auto; */
     width: 50%;
 }
 
@@ -82,8 +87,8 @@ ul {
 }
 
 .image-top {
-    width: 500px;
-    height: 350px;
+    width: 100%;
+    height: 100%;
 }
 
 h1, 
