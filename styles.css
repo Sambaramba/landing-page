@@ -153,13 +153,15 @@ button {
 }
 
 .quote {
-    /* display: flex; */
+    display: flex;
     /* justify-content: center; */
     /* align-items: center; */
     margin: 0 auto;
     font-size: 36px;
     font-weight: lighter;
     color: #1F2937;
+    flex-wrap: wrap;
+    width: 800px;
 }
 
 .author {
