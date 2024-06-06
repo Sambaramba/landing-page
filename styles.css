@@ -148,12 +148,15 @@ button {
 .container-two {
     background-color: #E5E7EB;
     padding: 60px 300px;
+    display: flex;
 
 }
 
 .quote {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* margin: 0 auto; */
+    /* font-size: 3 */
 }
 
