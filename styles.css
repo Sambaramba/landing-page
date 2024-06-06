@@ -149,6 +149,7 @@ button {
     background-color: #E5E7EB;
     padding: 60px 300px;
     display: flex;
+    justify-content: center;
 
 }
 
