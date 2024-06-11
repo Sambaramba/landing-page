@@ -149,7 +149,7 @@ button {
     /* min-height: 200px; */
     max-width: 200px;
     max-height: 200px;
-    flex: auto;
+    /* flex: 1 1 200px; */
 
 }
 
