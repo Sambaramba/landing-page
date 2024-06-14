@@ -127,6 +127,7 @@ button {
    justify-content: center;
    gap: 25px;
    /* width: 100%; */
+   flex-wrap: wrap;
 }
 
 .info-item {
