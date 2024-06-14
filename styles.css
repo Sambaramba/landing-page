@@ -72,8 +72,9 @@ ul {
 
 .top-left,
 .top-right {
-    flex: 1;
-    width: 50%;
+    flex: auto;
+    width: 750px;
+    height: 450px;
 }
 
 .header,
