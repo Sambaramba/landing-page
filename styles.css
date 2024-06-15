@@ -11,9 +11,17 @@ body {
   /* box-sizing: border-box; */
 }
 
+/* @media (max-width: 1000px) {
+   .top, .container-one, .container-two {
+     padding: 0;
+     width: 100%;
+   }
+} */
+
 .top,
 .container-one,
-.container-two {
+.container-two,
+.bottom {
     padding: 0 15%;
 }
 
@@ -192,5 +200,12 @@ button {
 
 .author {
     text-align: right;
+}
+
+
+/*BOTTOM SECTION(4)*/
+
+.bottom {
+
 }
 
