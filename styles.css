@@ -212,6 +212,9 @@ button {
 .inner-container {
    background-color: #3882F6;
    color: #F9FAF8;
+   border-radius: 8px;
+   padding: 20px;
+   display: flex;
 }
 
 .bottom-button {
