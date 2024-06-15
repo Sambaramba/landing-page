@@ -73,7 +73,7 @@ ul {
 .top-left,
 .top-right {
     flex: auto;
-    width: 100%;
+    width: 50%;
     height: 450px;
 }
 
