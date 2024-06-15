@@ -74,7 +74,9 @@ ul {
 .top-right {
     flex: auto;
     width: 50%;
-    height: 450px;
+    height: 50%;
+    min-width: 650px;
+    min-height: 400px;
 }
 
 .header,
