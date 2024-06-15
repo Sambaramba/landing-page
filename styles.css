@@ -206,6 +206,11 @@ button {
 /*BOTTOM SECTION(4)*/
 
 .bottom {
+   padding: 60px 0;
+}
 
+.inner-container {
+   background-color: #3882F6;
+   color: #F9FAF8;
 }
 
