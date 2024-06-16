@@ -181,7 +181,7 @@ button {
 /*section 3*/
 .container-two {
     background-color: #E5E7EB;
-    padding: 60px 300px;
+    padding: 60px 10%;
     display: flex;
     justify-content: center;
 
