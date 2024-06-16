@@ -181,7 +181,7 @@ button {
 /*section 3*/
 .container-two {
     background-color: #E5E7EB;
-    padding: 60px 10%;
+    padding: 6% 10%;
     display: flex;
     justify-content: center;
 
@@ -196,8 +196,9 @@ button {
     font-weight: lighter;
     color: #1F2937;
     /* flex-wrap: wrap; */
-    max-width: 800px;
+    max-width: 1000px;
     min-width: 400px;
+    text-align: justify;
 }
 
 .author {
