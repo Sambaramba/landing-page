@@ -213,7 +213,7 @@ button {
    background-color: #3882F6;
    color: #F9FAF8;
    border-radius: 8px;
-   padding: 40px 60px;
+   padding: 3% 10%;
    display: flex;
    justify-content: space-between;
    align-items: center;
@@ -230,7 +230,7 @@ button {
     /* width: 50%; */
 }
 
-.bottom-right {
-
+.bottom-left {
+   
 }
 
