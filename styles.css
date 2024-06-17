@@ -213,14 +213,14 @@ button {
 /*BOTTOM SECTION(4)*/
 
 .bottom {
-   padding: 80px 15%;
+   padding: 5% 15%;
 }
 
 .inner-container {
    background-color: #3882F6;
    color: #F9FAF8;
    border-radius: 8px;
-   padding: 5% 10%;
+   padding: 3% 10%;
    display: flex;
    justify-content: space-between;
    align-items: center;
