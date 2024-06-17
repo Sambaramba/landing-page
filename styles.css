@@ -31,10 +31,14 @@ img {
 
 .top {
     display: flex;
-    background-color: #1F2937; /*add to .footer*/
     color: white;
     flex-direction: column;
     /* padding: 0 100px; */
+}
+
+.top,
+.footer {
+    background-color: #1F2937;
 }
 
 .header {
