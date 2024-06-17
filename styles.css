@@ -142,7 +142,7 @@ button {
 .image-text {
    display: flex;
    justify-content: center;
-   gap: 30px;
+   gap: 48px;
    /* width: 100%; */
    flex-wrap: wrap;
    align-items: flex-start;
