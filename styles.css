@@ -187,7 +187,7 @@ button {
 
 
 
-/*section 3*/
+/*section 3-quote*/
 .container-two {
     background-color: #E5E7EB;
     padding: 6% 10%;
@@ -207,6 +207,7 @@ button {
     /* flex-wrap: wrap; */
     max-width: 1000px;
     min-width: 400px;
+    width: 85%;
     text-align: justify;
 }
 
