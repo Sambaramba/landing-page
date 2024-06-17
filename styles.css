@@ -62,7 +62,7 @@ ul {
 }
 
 
-.light-grey {
+.grey-text {
     color: #E5E7EB;
 }
 
@@ -250,3 +250,8 @@ button {
     color: #F9FAF8;
 }
 
+/*footer*/
+
+.footer {
+
+}
