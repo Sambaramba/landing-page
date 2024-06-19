@@ -263,3 +263,11 @@ button {
    text-align: center;
    padding: 2% 0;
 }
+
+@media (max-width: 978px) {
+    .top, .container-one,
+    .container-two, .bottom,
+    .footer {
+        padding: 5px;
+    }
+}
