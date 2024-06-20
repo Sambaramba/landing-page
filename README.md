@@ -10,3 +10,5 @@ sunset of baltic sea picture:- addesia  pixabay https://cdn.pixabay.com/photo/20
 Purple Hydrangeas:- Gruendercoach pixabay https://cdn.pixabay.com/photo/2022/08/05/20/23/hydrangeas-7367535_1280.jpg
 
 milkyway in yosemite, Casey Horner, upsplash, url= https://images.unsplash.com/photo-1502581827181-9cf3c3ee0106?q=80&w=976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+Pretty waves pattern in maldives, Shifaaz shammoon, upsplash, https://images.unsplash.com/photo-1505144808419-1957a94ca61e?q=80&w=926&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
