@@ -272,14 +272,15 @@ button {
     }
 }
 
-@media (max-width: 978px){
+@media (max-width: 978px) {
     .header, .hero, .top-right {
         padding-bottom: 10px;
     }
 
+}
+
     @media (max-width: 978px) {
         .top-right {
             height: 0;
-        }
     }
 }
