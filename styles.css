@@ -70,6 +70,10 @@ button {
     flex-wrap: wrap;
 }
 
+.logo {
+    /* border: 1px solid white; */
+}
+
 
 .grey-text {
     color: #E5E7EB;
@@ -284,5 +288,11 @@ button {
     @media (max-width: 978px) {
         .top-right {
             height: 0;
+    }
+}
+
+@media (max-width: 978px) {
+    .top-left {
+        margin-bottom: -80px;
     }
 }
