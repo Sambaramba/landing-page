@@ -44,9 +44,9 @@ button {
 
 
 .top {
-    display: flex;
+    /* display: flex; */
     color: white;
-    flex-direction: column;
+    /* flex-direction: column; */
     /* padding: 0 100px; */
 }
 
@@ -209,7 +209,7 @@ button {
     /* display: flex; */
     /* justify-content: center; */
     /* align-items: center; */
-    margin: 0 auto;
+    /* margin: 0 auto; */
     font-size: 36px;
     font-weight: lighter;
     color: #1F2937;
