@@ -274,7 +274,7 @@ button {
     .top, .container-one,
     .container-two, .bottom,
     .footer {
-        padding: 10px;
+        padding: 20px;
     }
 }
 
@@ -293,6 +293,6 @@ button {
 
 @media (max-width: 978px) {
     .top-left {
-        margin-bottom: -80px;
+        margin-bottom: -25px;
     }
 }
