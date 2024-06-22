@@ -173,7 +173,7 @@ button {
     justify-content: center;
     flex-direction: column;
     flex-wrap: wrap;
-    /* flex: auto; */
+    width: 250px;
 }
 
 .h2,
