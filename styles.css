@@ -35,6 +35,10 @@ button {
     margin: 0 0 10px 0;
 }
 
+h2 {
+    margin: 0;
+}
+
 .top,
 .container-one,
 .container-two,
@@ -174,7 +178,8 @@ button {
 
 .h2,
 .image-text {
-    margin-bottom: 30px;
+    /* margin-bottom: 30px; */
+    margin: 1% 1% 2% 1%;
 }
 
 .info-image {
