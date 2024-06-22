@@ -1,4 +1,4 @@
- This is a landing-page that should demonstrate use of html,css and flex skills.
+ This is a landing-page that hopefully demonstrates a basic knowledge of html and css(with flex-box styles added too).
 
  Images used :
  cute baby wolf picture:- Gypsy6 pixabay original file source/name https://cdn.pixabay.com/photo/2021/07/24/07/25/chow-chow-6488849_960_720.jpg
