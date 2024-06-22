@@ -1,4 +1,4 @@
- This is a landing-page that hopefully demonstrates a basic knowledge of html and css(with flex-box styles added too).
+ This is a landing-page that hopefully demonstrates a basic knowledge of html and css (with flex-box styles added too).
 
 
  References for the images used:
