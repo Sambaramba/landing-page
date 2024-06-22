@@ -105,7 +105,7 @@ button {
 .top-right {
     flex: auto;
     width: 50%;
-    height: 50%;
+    height: 100%;
     min-width: 470px;
     min-height: 300px;
 }
@@ -291,11 +291,11 @@ button {
     }
 }
 
-    @media (max-width: 978px) {
+    /* @media (max-width: 978px) {
         .top-right {
             height: 10;
     }
-}
+} */
 
 @media (max-width: 978px) {
     .top-left {
