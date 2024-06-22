@@ -1,6 +1,8 @@
  This is a landing-page that hopefully demonstrates a basic knowledge of html and css(with flex-box styles added too).
 
- Images used :
+
+ References for the images used:
+
  cute baby wolf picture:- Gypsy6 pixabay original file source/name https://cdn.pixabay.com/photo/2021/07/24/07/25/chow-chow-6488849_960_720.jpg
 
 beautiful bird on branch:- IstvánKopeczny pixabay https://cdn.pixabay.com/photo/2024/03/31/06/16/bird-8666099_640.jpg
